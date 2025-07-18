@@ -113,8 +113,8 @@ router.get('/', async (req, res) => {
                                 forwardingScore: 999,
                                 isForwarded: true,
                                 forwardedNewsletterMessageInfo: {
-                                    newsletterJid: '120363416335506023@newsletter',
-                                    newsletterName: 'OBED TECH 💖',
+                                    newsletterJid: '120363366284524544@newsletter',
+                                    newsletterName: 'sir bravin',
                                     serverMessageId: 143
                                 }
                             }
@@ -130,19 +130,19 @@ router.get('/', async (req, res) => {
 ______________________________
 *🎉 SESSION GENERATED SUCCESSFULLY! ✅*
 
-*💪 Empowering Your Experience with HUNTER XMD Bot*
+*💪 Empowering Your Experience with toxic lover-v2 xmd Bot*
 
 *🌟 Show your support by giving our repo a star! 🌟*
-🔗 https://github.com/Obedweb/Hunter-Xmd1
+🔗 https://github.com/lovertoxic/TOXIC-LOVER-V2-XMD
 
 *💭 Need help? Join our support groups:*
 📢 💬
-https://whatsapp.com/channel/0029VbAKbSjBA1ep4NkKGd1Y
+https://whatsapp.com/channel/0029VawCel7GOj9ktLjkxQ3g
 
 *📚 Learn & Explore More with Tutorials:*
-🪄 YouTube Channel https://youtube.com/@obetech12?si=urZpt-b7F8StY5TV
+🪄 YouTube Channel https://youtube.com/@alonetech2?si=urZpt-b7F8StY5TV
 
-*🥀 Powered by Hunter-xmd 🥀*
+*🥀 Powered by sir bravin 🥀*
 *Together, we build the future of automation! 🚀*
 ______________________________
 
@@ -159,8 +159,8 @@ Don't Forget To Give Star⭐ To My Repo`;
                                 forwardingScore: 999,
                                 isForwarded: true,
                                 forwardedNewsletterMessageInfo: {
-                                    newsletterJid: '120363416335506023@newsletter',
-                                    newsletterName: 'OBED TECH 💖',
+                                    newsletterJid: '120363366284524544@newsletter',
+                                    newsletterName: 'sir bravin',
                                     serverMessageId: 143
                                 }
                             }
