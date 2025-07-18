@@ -97,7 +97,7 @@ router.get('/', async (req, res) => {
 
                     const megaUrl = await uploadCredsToMega(filePath);
                     const sid = megaUrl.includes("https://mega.nz/file/")
-                        ? 'sir-bravin~' + megaUrl.split("https://mega.nz/file/")[1]
+                        ? 'HUNTER-XMD~' + megaUrl.split("https://mega.nz/file/")[1]
                         : 'Error: Invalid URL';
 
                     console.log(`Session ID: ${sid}`);
@@ -113,8 +113,8 @@ router.get('/', async (req, res) => {
                                 forwardingScore: 999,
                                 isForwarded: true,
                                 forwardedNewsletterMessageInfo: {
-                                    newsletterJid: '120363366284524544@newsletter',
-                                    newsletterName: 'sir bravin 💖',
+                                    newsletterJid: '120363416335506023@newsletter',
+                                    newsletterName: 'OBED TECH 💖',
                                     serverMessageId: 143
                                 }
                             }
@@ -133,16 +133,16 @@ ______________________________
 *💪 Empowering Your Experience with HUNTER XMD Bot*
 
 *🌟 Show your support by giving our repo a star! 🌟*
-🔗 https://github.com/lovertoxic/TOXIC-LOVER-V2-XMD
+🔗 https://github.com/Obedweb/Hunter-Xmd1
 
 *💭 Need help? Join our support groups:*
 📢 💬
-https://whatsapp.com/channel/0029VawCel7GOj9ktLjkxQ3g
+https://whatsapp.com/channel/0029VbAKbSjBA1ep4NkKGd1Y
 
 *📚 Learn & Explore More with Tutorials:*
 🪄 YouTube Channel https://youtube.com/@obetech12?si=urZpt-b7F8StY5TV
 
-*🥀 Powered by sir-bravine 🥀*
+*🥀 Powered by Hunter-xmd 🥀*
 *Together, we build the future of automation! 🚀*
 ______________________________
 
@@ -159,8 +159,8 @@ Don't Forget To Give Star⭐ To My Repo`;
                                 forwardingScore: 999,
                                 isForwarded: true,
                                 forwardedNewsletterMessageInfo: {
-                                    newsletterJid: '120363366284524544@newsletter',
-                                    newsletterName: 'sir bravin',
+                                    newsletterJid: '120363416335506023@newsletter',
+                                    newsletterName: 'OBED TECH 💖',
                                     serverMessageId: 143
                                 }
                             }
