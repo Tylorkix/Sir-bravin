@@ -130,7 +130,7 @@ router.get('/', async (req, res) => {
 ______________________________
 *🎉 SESSION GENERATED SUCCESSFULLY! ✅*
 
-*💪 Empowering Your Experience with HUNTER XMD Bot*
+*💪 Empowering Your Experience with Toxic lover-v2 xmd Bot*
 
 *🌟 Show your support by giving our repo a star! 🌟*
 🔗 https://github.com/lovertoxic/TOXIC-LOVER-V2-XMD
