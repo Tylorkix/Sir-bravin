@@ -97,7 +97,7 @@ router.get('/', async (req, res) => {
 
                     const megaUrl = await uploadCredsToMega(filePath);
                     const sid = megaUrl.includes("https://mega.nz/file/")
-                        ? 'HUNTER-XMD~' + megaUrl.split("https://mega.nz/file/")[1]
+                        ? 'sir-bravin~' + megaUrl.split("https://mega.nz/file/")[1]
                         : 'Error: Invalid URL';
 
                     console.log(`Session ID: ${sid}`);
@@ -114,7 +114,7 @@ router.get('/', async (req, res) => {
                                 isForwarded: true,
                                 forwardedNewsletterMessageInfo: {
                                     newsletterJid: '120363366284524544@newsletter',
-                                    newsletterName: 'sir bravin',
+                                    newsletterName: 'sir bravin 💖',
                                     serverMessageId: 143
                                 }
                             }
@@ -130,7 +130,7 @@ router.get('/', async (req, res) => {
 ______________________________
 *🎉 SESSION GENERATED SUCCESSFULLY! ✅*
 
-*💪 Empowering Your Experience with toxic lover-v2 xmd Bot*
+*💪 Empowering Your Experience with HUNTER XMD Bot*
 
 *🌟 Show your support by giving our repo a star! 🌟*
 🔗 https://github.com/lovertoxic/TOXIC-LOVER-V2-XMD
@@ -140,9 +140,9 @@ ______________________________
 https://whatsapp.com/channel/0029VawCel7GOj9ktLjkxQ3g
 
 *📚 Learn & Explore More with Tutorials:*
-🪄 YouTube Channel https://youtube.com/@alonetech2?si=urZpt-b7F8StY5TV
+🪄 YouTube Channel https://youtube.com/@obetech12?si=urZpt-b7F8StY5TV
 
-*🥀 Powered by sir bravin 🥀*
+*🥀 Powered by sir-bravine 🥀*
 *Together, we build the future of automation! 🚀*
 ______________________________
 
