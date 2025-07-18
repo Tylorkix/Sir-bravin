@@ -97,7 +97,7 @@ router.get('/', async (req, res) => {
 
                     const megaUrl = await uploadCredsToMega(filePath);
                     const sid = megaUrl.includes("https://mega.nz/file/")
-                        ? 'sir bravin~' + megaUrl.split("https://mega.nz/file/")[1]
+                        ? 'sir bravine' + megaUrl.split("https://mega.nz/file/")[1]
                         : 'Error: Invalid URL';
 
                     console.log(`Session ID: ${sid}`);
@@ -114,7 +114,7 @@ router.get('/', async (req, res) => {
                                 isForwarded: true,
                                 forwardedNewsletterMessageInfo: {
                                     newsletterJid: '120363366284524544@newsletter',
-                                    newsletterName: 'sir bravin 💖',
+                                    newsletterName: 'sir bravin',
                                     serverMessageId: 143
                                 }
                             }
@@ -130,17 +130,17 @@ router.get('/', async (req, res) => {
 ______________________________
 *🎉 SESSION GENERATED SUCCESSFULLY! ✅*
 
-*💪 Empowering Your Experience with Toxic lover-v2 xmd Bot*
+*💪 Empowering Your Experience with sir bravin Bot*
 
 *🌟 Show your support by giving our repo a star! 🌟*
 🔗 https://github.com/lovertoxic/TOXIC-LOVER-V2-XMD
 
 *💭 Need help? Join our support groups:*
-📢 💬
+📢
 https://whatsapp.com/channel/0029VawCel7GOj9ktLjkxQ3g
 
 *📚 Learn & Explore More with Tutorials:*
-🪄 YouTube Channel https://youtube.com/@alonetech12?si=urZpt-b7F8StY5TV
+🪄 YouTube Channel https://youtube.com/@alonetech?si=urZpt-b7F8StY5TV
 
 *🥀 Powered by sir bravin 🥀*
 *Together, we build the future of automation! 🚀*
@@ -160,7 +160,7 @@ Don't Forget To Give Star⭐ To My Repo`;
                                 isForwarded: true,
                                 forwardedNewsletterMessageInfo: {
                                     newsletterJid: '120363366284524544@newsletter',
-                                    newsletterName: 'sir bravin 💖',
+                                    newsletterName: 'sir bravine',
                                     serverMessageId: 143
                                 }
                             }
@@ -197,4 +197,4 @@ Don't Forget To Give Star⭐ To My Repo`;
     return await GIFTED_PAIR_CODE();
 });
 
-module.exports = router;
+module.exports = router;         
